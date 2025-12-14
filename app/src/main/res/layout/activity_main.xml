@@ -33,6 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="4dp"
         android:text="ffff"
+        android:textColor="#EFEFEF"
         app:layout_constraintEnd_toEndOf="@+id/imageView3"
         app:layout_constraintStart_toStartOf="@+id/imageView3"
         app:layout_constraintTop_toBottomOf="@+id/imageView3" />
@@ -84,6 +85,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="4dp"
         android:text="abc"
+        android:textColor="#FFFAFA"
         app:layout_constraintEnd_toEndOf="@+id/imageView6"
         app:layout_constraintStart_toStartOf="@+id/imageView6"
         app:layout_constraintTop_toBottomOf="@+id/imageView6" />
@@ -94,6 +96,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="4dp"
         android:text="cab"
+        android:textColor="#FDFDFD"
         app:layout_constraintEnd_toEndOf="@+id/imageView5"
         app:layout_constraintHorizontal_bias="0.535"
         app:layout_constraintStart_toStartOf="@+id/imageView5"
@@ -105,6 +108,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="4dp"
         android:text="bca"
+        android:textColor="#FFFFFF"
         app:layout_constraintEnd_toEndOf="@+id/imageView4"
         app:layout_constraintStart_toStartOf="@+id/imageView4"
         app:layout_constraintTop_toBottomOf="@+id/imageView4" />
@@ -169,6 +173,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="9.9"
+        android:textColor="#F2E9E9"
         app:layout_constraintEnd_toEndOf="@+id/imageView7"
         app:layout_constraintStart_toStartOf="@+id/imageView7"
         app:layout_constraintTop_toBottomOf="@+id/imageView7" />
